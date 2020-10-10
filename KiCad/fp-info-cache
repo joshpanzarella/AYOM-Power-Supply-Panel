@@ -1,4 +1,4 @@
-16982626620130623
+16950680203348623
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -44226,25 +44226,11 @@ D6R40_F1_LFS_Tactile_Switch
 4
 4
 Custom
-Ferrite_Bead_THT
-
-
-0
-2
-2
-Custom
 MIDI_Connector_Female_Right_Angle
 
 
 0
 7
-6
-Custom
-Mini_Toggle_Switch_DPDT_ON-ON
-
-
-0
-6
 6
 Custom
 Mini_Toggle_Switch_SPDT_ON-ON
@@ -44289,135 +44275,9 @@ Custom_Graphics
 0
 0
 Custom_Graphics
-PS_Copper_Front
-Imported from PS_Copper_Front_IS_4.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-PS_Copper_Front_Mask
-Imported from PS_Copper_Front_Mask_IS_4.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-PS_EdgeCuts
-Imported from PS_EdgeCuts_IS_15.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-PS_Silkscreen
-Imported from PS_Silkscreen_IS_4.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-Png_test
-
-
-0
-0
-0
-Custom_Graphics
-Png_test_copper
-
-
-0
-0
-0
-Custom_Graphics
-Png_test_silk
-
-
-0
-0
-0
-Custom_Graphics
-Png_test_solder
-
-
-0
-0
-0
-Custom_Graphics
 Shape_Taker_Logo_1300_DPI
 
 
-0
-0
-0
-Custom_Graphics
-Text Spec Sheet Copper
-
-
-0
-0
-0
-Custom_Graphics
-Text Spec Sheet Silk
-
-
-0
-0
-0
-Custom_Graphics
-Text Spec Sheet Solder Mask
-
-
-0
-0
-0
-Custom_Graphics
-VCA_Panel_EdgeCuts
-Imported from VCA_Edgecuts_IS_Rd2.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-VCA_Panel_Silkscreen
-Imported from VCA_Silkscreen_IS_Rd4.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-copper
-Imported from copper.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-edge
-Imported from edge.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-fmask
-Imported from fmask.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-silks
-Imported from silks.svg
-svg2mod
-0
-0
-0
-Custom_Graphics
-test1
-Imported from test1.svg
-svg2mod
 0
 0
 0
@@ -74116,7 +73976,7 @@ PB614_LED_SW_6pin
 6
 6
 Thonkiconn
-Thonkiconn
+thonkiconn_fuzzySi
 
 
 0
